@@ -29,7 +29,6 @@ Antes de rodar o projeto localmente, você precisa ter o Node.js instalado. Se v
 ## Uso
 Após concluir a instalação, você pode iniciar o servidor de desenvolvimento com o seguinte comando:
 
-    ```bash
     npm start
 
-Isso iniciará o servidor de desenvolvimento e o projeto estará disponível em http://localhost:3000 em seu navegador.
+Isso iniciará o servidor de desenvolvimento e o projeto estará disponível em http://localhost:3000 em seu navegador.   
