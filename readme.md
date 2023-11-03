@@ -1,6 +1,6 @@
 # Backroads React App
 
-Este é um projeto de aplicativo React que foi desenvolvido com o objetivo de aprender a utilizar os componentes do react com responsividade e utilizando as melhores práticas da biblioteca. O projeto não utiliza state ou hooks, focando na criação de componentes reutilizáveis e na adaptação a diferentes tamanhos de tela.
+Este é um projeto de aplicativo React que foi desenvolvido com o objetivo de aprender a utilizar os componentes do react com responsividade, utilizando as melhores práticas da biblioteca. O projeto foca na criação de componentes reutilizáveis.
 
 ## Demonstração
 
