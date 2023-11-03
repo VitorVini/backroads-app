@@ -15,7 +15,7 @@ Antes de rodar o projeto localmente, você precisa ter o Node.js instalado. Se v
 1. Clone o repositório para o seu ambiente de desenvolvimento:
 
    ```bash
-   git clone https://github.com/seu-usuario/backroads-react-app.git
+   git clone https://github.com/VitorVini/backroads-react-app.git
 
 2. Navegue até a pasta do projeto:
 
